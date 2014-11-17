@@ -3,7 +3,7 @@ mortality
 
 <html>
 <body>
-<p>Detailed mortality rates given year of birth in the U.S. and Sweden.
+<p>Detailed mortality rates given year of birth in the U.S. and Sweden, using R. It's easy to look at average lifespan, but there's a great deal of detail that goes missing when you just take that average. Our eyes are well-suited to seeing the details in the data if we just give them a chance.
 </p>
 <img src="mortality.gif" alt="U.S. Mortality">
 <p>Above is mortality in the U.S.A. Note large bumps in the male population's figures around 18-25 years of age for much of the measured time. It is probably related to dangerous professions and hobbies among American men in that age range, though more detailed data would be necessary to confirm this.</figcaption>
